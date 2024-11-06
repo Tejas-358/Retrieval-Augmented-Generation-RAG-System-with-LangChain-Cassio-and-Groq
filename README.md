@@ -30,7 +30,7 @@ To install and run the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rag-system.git
+   git clone https://github.com/Tejas-358/Retrieval-Augmented-Generation-RAG-System-with-LangChain-Cassio-and-Groq.git
    cd rag-system
 
 2. Install the required dependencies:
